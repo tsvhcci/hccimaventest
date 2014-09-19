@@ -11,7 +11,8 @@ import com.hcci.entity.HelloEntity;
 public class HelloDAOImpl extends GenericHibernateDao<HelloEntity, Serializable>implements HelloDAO{
 
 	public List<HelloEntity> getAll() {
-		return loadAll(HelloEntity.class);
+		System.out.println("Testing");
+        return loadAll(HelloEntity.class);
 	}
 
 
