@@ -8,5 +8,6 @@ public class ServiceTest {
 
     public void testSample(){
         //TODO: add code
+        System.out.println("Sample test");
     }
 }
