@@ -3,7 +3,7 @@ package com.hcci.service;
 public class Test {
 
 	public static void main(String args[]){
-		String s="";
+		String s="xxx";
 //		s.concat(ServiceConstants.CARE_BUNDLE_SERVICE);
 //		s.concat(ServiceConstants.GET_TREATMNT_CNDN_CARE_BUNDLES);
 //		System.out.println("-------"+s);
