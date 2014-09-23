@@ -10,7 +10,7 @@ public class ServiceTest {
 
     public void testSample(){
         //TODO: add code
-        System.out.println("Sample test 123");
+        System.out.println("Sample test 1235678");
         Assert.assertEquals(true,true);
     }
 }
